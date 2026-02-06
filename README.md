@@ -1,8 +1,6 @@
-# GhostProtocol-V12
-Professional Stealth Traffic Management &amp; Ad-Optimization Extension. Built for Privacy and Performance.
 # 🛡️ GhostProtocol V12 - Stealth Edition 🚀
 
-**GhostProtocol V12** is a professional, high-performance browser extension designed for secure traffic management and ad-display optimization. Built with a focus on privacy and "Stealth Mode" operation.
+**GhostProtocol V12** is a professional, high-performance browser extension designed for secure traffic management and ad-optimization. Built with a focus on privacy and "Stealth Mode" operation.
 
 ---
 
@@ -39,4 +37,5 @@ This extension is protected by a proprietary encryption algorithm. To obtain you
 
 ### 📬 Contact the Developer
 Ready to scale your traffic? Let's connect!
-[ضع هنا رابط التليجرام الخاص بك أو وسيلة التواصل]
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmedkamel73)
