@@ -4,6 +4,17 @@
 
 ---
 
+## 📸 App Interface & Features (Full Preview)
+
+| Dashboard & YouTube | Ads & Traffic | Website & Routing |
+|:---:|:---:|:---:|
+| ![Dashboard](img1.png) | ![YouTube Settings](img2.png) | ![Ads Settings](img3.png) |
+| **Main Control** | **YouTube Integration** | **A-ADS Support** |
+| ![Traffic Settings](img4.png) | ![Routing](img5.png) | ![Proof of Work](img6.png) |
+| **Site Management** | **Smart Routing** | **Live Action** |
+
+---
+
 ## ✨ Key Features
 
 * **⚡ Smart Traffic Engine:** Automatically direct traffic to specific URLs or websites.
