@@ -4,6 +4,13 @@
 
 ---
 
+## 📥 Direct Download
+Click the button below to get the latest version directly:
+
+[![Download ZIP](https://img.shields.io/badge/Download-GhostProtocol--V12.zip-brightgreen?style=for-the-badge&logo=github)](https://github.com/ahmedkamel-73/GhostProtocol-V12/raw/main/GhostProtocol_V12.zip)
+
+---
+
 ## 📸 App Interface & Features (Full Preview)
 
 | Dashboard & YouTube | Ads & Traffic | Website & Routing |
@@ -19,16 +26,16 @@
 
 * **⚡ Smart Traffic Engine:** Automatically direct traffic to specific URLs or websites.
 * **💰 Ad-Network Integration:** Built-in support for **A-ADS** and other iframe-based advertisement networks.
-* **🔒 Hardware Locking System:** Secured with a unique **Device ID** and **Activation Key** system to prevent unauthorized distribution.
-* **🕵️ Stealth Mode:** Operates discreetly in the background with minimal resource consumption.
-* **📱 Optimized for Kiwi Browser:** Fully compatible with mobile and desktop Chromium-based browsers.
+* **🔒 Hardware Locking System:** Secured with a unique **Device ID** and **Activation Key** system.
+* **🕵️ Stealth Mode:** Operates discreetly in the background.
+* **📱 Optimized for Kiwi Browser:** Fully compatible with mobile and desktop.
 
 ---
 
 ## 🛠️ Installation Guide
 
-1.  **Download:** Get the latest version of `GhostProtocol_V12.zip` from this repository.
-2.  **Extract/Upload:** * Open **Kiwi Browser** (or Chrome).
+1.  **Download:** Click the green **Download** button above.
+2.  **Extract/Upload:** * Open **Kiwi Browser**.
     * Navigate to `chrome://extensions`.
     * Enable **Developer Mode**.
     * Click on **(+) Load** and select your ZIP file.
@@ -40,9 +47,9 @@
 
 ## 🔑 Licensing & Support
 
-This extension is protected by a proprietary encryption algorithm. To obtain your **Activation Key**, please contact the developer with your **Device ID**.
+To obtain your **Activation Key**, please contact the developer with your **Device ID**.
 
-> **Note:** GhostProtocol V12 is designed for advanced users and developers looking for a reliable stealth traffic solution.
+> **Note:** GhostProtocol V12 is designed for advanced users and developers.
 
 ---
 
